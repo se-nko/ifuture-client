@@ -2,7 +2,7 @@
 
 ```
 mnv clean package
-java -jar client-1  --rCount=2 --wCount=2 --idList=1,3,6
+java -jar client-1.jar  --rCount=2 --wCount=2 --idList=1,3,6
 ```
 
 ### Available properties
